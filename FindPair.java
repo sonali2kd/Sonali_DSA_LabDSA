@@ -54,7 +54,7 @@ public class FindPair {
 		{
 			HashSet<Integer> set = new HashSet<Integer>();
 			if (!findpairUtil(root, sum, set))
-				System.out.print("Pairs do not exit"
+				System.out.print("Pairs do not exist"
 								+ "\n");
 		}
 
